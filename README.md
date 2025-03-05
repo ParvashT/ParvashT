@@ -3,7 +3,8 @@
 <h3 align="center">Data Science Graduate | AI/ML Enthusiast | Aspiring Data Analyst & Data Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ParvashChoudharyTalluri/ParvashChoudharyTalluri/main/banner.png" alt="Parvash Choudhary Talluri" width="80%" />
+  ![Parvash passport photo](https://github.com/user-attachments/assets/2c68c282-d298-49b6-aca5-86d8616d7b97)
+
 </p>
 
 ---
