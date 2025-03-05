@@ -2,15 +2,10 @@
 <h1 align="center">Hi 👋, I'm Parvash Choudhary Talluri</h1>
 <h3 align="center">Data Science Graduate | AI/ML Enthusiast | Aspiring Data Analyst & Data Engineer</h3>
 
-<p align="center">
-  ![Parvash passport photo](https://github.com/user-attachments/assets/2c68c282-d298-49b6-aca5-86d8616d7b97)
-
-</p>
-
 ---
 
 ### 🚀 About Me:
-- 🎓 **Master's in Data Science** @ **UMass Dartmouth** (GPA: 3.9)
+- 🎓 **Master's in Data Science** @ **UMass Dartmouth** 
 - 💡 Passionate about **Data Science, Machine Learning, AI-driven solutions**
 - 💻 Experienced in **SQL, Python, TensorFlow, PyTorch, OpenCV, Power BI, AWS, Azure**
 - 🤖 Currently working on:
