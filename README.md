@@ -42,12 +42,25 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParvashChoudharyTalluri&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParvashT&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvashChoudharyTalluri&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvasht&show_icons=true&locale=en&layout=compact" alt="parvasht" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvasht&show_icons=true&locale=en" alt="parvasht" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvasht" alt="parvasht" /></a> </p>
+
+---
+
+### 🎉 Fun Fact:
+💡 *I love automobiles, playing games, watching movies and anime!*
 
 ---
 
@@ -64,20 +77,11 @@
   </a>
 </p>
 
----
-
-### 🎉 Fun Fact:
-💡 *I love automobiles, playing games, watching movies and anime!*
-
----
-
 ## ⭐ **Show Some Support**
 If you find my work helpful, feel free to **⭐️** my repositories and follow me!
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/parvashchoudhary">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
 
----
