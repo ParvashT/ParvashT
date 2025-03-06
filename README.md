@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 **Master's in Data Science** @ **UMass Dartmouth** 
+- 🎓 **Master's in Data Science at**  **University of Massachusetts Dartmouth** 
 - 💡 Passionate about **Data Science, Machine Learning, AI-driven solutions**
 - 💻 Experienced in **SQL, Python, TensorFlow, PyTorch, OpenCV, Power BI, AWS, Azure**
 - 🤖 Currently working on:
