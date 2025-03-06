@@ -53,7 +53,7 @@
 
 ### 🔗 Connect With Me:
 <p align="center">
-  <a href="www.linkedin.com/in/parvashtalluri">
+  <a href="https://www.linkedin.com/in/parvashtalluri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:talluriparvashchoudhary2001@gmail.com">
