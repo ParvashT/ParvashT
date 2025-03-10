@@ -40,17 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParvashT&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParvashChoudharyTalluri&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvasht&show_icons=true&locale=en&layout=compact" alt="parvasht" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvasht&show_icons=true&locale=en" alt="parvasht" /></p>
