@@ -68,9 +68,5 @@
 
 ## ⭐ **Show Some Support**
 If you find my work helpful, feel free to **⭐️** my repositories and follow me!
-<p align="center">
-  <a href="https://www.buymeacoffee.com/parvashchoudhary">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
-</p>
+
 
