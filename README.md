@@ -55,7 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvasht&show_icons=true&locale=en" alt="parvasht" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvasht" alt="parvasht" /></a> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvasht&bg_color=0d1117&color=ffffff&line=ff6f00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parvasht&theme=github_dark" alt="GitHub Profile Summary" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvasht&langs_count=8&theme=tokyonight&layout=compact" alt="Most Used Languages" /> </p>
 
 ---
 
