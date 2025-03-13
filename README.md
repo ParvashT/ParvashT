@@ -1,5 +1,5 @@
 <!-- Header with animation -->
-<h1 align="center">Hi 👋, I'm Parvash Choudhary Talluri</h1>
+<h1 align="center">Parvash Choudhary Talluri</h1>
 <h3 align="center">Data Science Graduate | AI/ML Enthusiast | Aspiring Data Analyst & Data Engineer</h3>
 
 ---
